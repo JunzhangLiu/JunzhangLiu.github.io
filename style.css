@@ -143,4 +143,9 @@ ul.main-menu li a.active {
 .nobot {
   display:none;
 }
+.pic {
+  height: 40%;
+  width: 40%;
+  float:right;
+}
 
